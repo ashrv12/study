@@ -4,3 +4,5 @@
 https://zig.guide
 
 https://codeberg.org/ziglings/exercises/#ziglings
+
+https://ziglang.org/learn/
